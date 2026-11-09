@@ -30,7 +30,7 @@ Os arquivos do Censo e do SNBP abrangem todo o Brasil. O recorte para a região 
 | `data/censo2022_alfabetizacao.csv` | IBGE – SIDRA, tabela 9543 | 5.570 municípios | Taxa de alfabetização (15 anos ou mais) |
 | `data/censo2022_escolaridade.csv` | IBGE – SIDRA, tabela 10061 | 5.570 municípios | Distribuição por nível de instrução (18 anos ou mais) |
 | `data/censo2022_renda.csv` | IBGE – SIDRA, tabela 10295 | 5.570 municípios × 2 variáveis | Rendimento domiciliar per capita médio e mediano |
-| `data/cadastrodebibliotecas-snbp2025-2026.xlsx` | SNBP / Biblioteca Nacional | 4.691 bibliotecas | Cadastro de bibliotecas públicas e comunitárias |
+| `data/cadastrodebibliotecas-snbp2025-2026.csv` | SNBP / Biblioteca Nacional | 4.691 bibliotecas | Cadastro de bibliotecas públicas e comunitárias |
 | `data/livros_busca.csv` | Amazon Brasil (busca) | 1.007 livros | Livros encontrados na busca por gênero |
 | `data/livros_bestsellers.csv` | Amazon Brasil (mais vendidos) | 100 livros | Ranking dos livros mais vendidos |
 | `data/livros_amazon.csv` | Amazon Brasil (página do livro) | 1.007 livros | Detalhes de cada livro |
