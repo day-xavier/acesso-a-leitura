@@ -112,7 +112,7 @@ O arquivo tem dois blocos, um embaixo do outro: o primeiro com o rendimento **m�
 
 > Observação: os arquivos do SIDRA têm cabeçalho em várias linhas, notas de rodapé no final, separador `;` e vírgula como separador decimal.
 
-### `cadastrodebibliotecas-snbp2025-2026.xlsx`
+### `cadastrodebibliotecas-snbp2025-2026.csv`
 | Coluna | Descrição | Exemplo |
 |---|---|---|
 | Região | Grande região do país | Nordeste |
